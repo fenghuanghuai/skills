@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Configuration
+config.py
+.env
+
+# Logs
+*.log
+/tmp/email_tasks.log
+
+# OS
+.DS_Store
+Thumbs.db
